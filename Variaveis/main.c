@@ -29,15 +29,5 @@ int main()
 
     }
 
-    z = pow(A,B);
-
-    printf("valor de z: %.2f\n", z);
-
-    scanf("%d", &y);
-    printf("valor de y: %d\n", y);
-
-    scanf("%f", &z);
-    printf("valor de z: %.2f\n", z);
-
     return 0;
 }
