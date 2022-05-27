@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1652436315 source:c:\users\alvar\documents\ceunsp\docente\disciplinasministradas\5_sexta_programacaocomputadores\projetos\condicionalif\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1653046201 source:c:\users\alvar\documents\ceunsp\docente\disciplinasministradas\5_sexta_programacaocomputadores\projetos\switchcase\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651402226 source:c:\users\alvar\documents\ceunsp\docente\disciplinasministradas\5_sexta_programacaocomputadores\projetos\avaliacaoa2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
