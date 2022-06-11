@@ -48,28 +48,18 @@ int main(){
 
     int opcao;
 
-    setlocale(LC_ALL, "Portuguese");
-
-    Cabecalho();
-    ImprimiOpcoes();
-
-
     printf("\nEscolha uma opção: ");
     scanf("%d", &opcao);
 
-
     switch(opcao){
     case 1:
-        escolha1();
+        printf("escolha 1");
         break;
     case 2:
-        escolha2();
-        break;
-    case 3:
-        escolha3();
+        printf("escolha 2");
         break;
     default:
-        semescolha();
+        printf("sem escolha");
         break;
     }
 

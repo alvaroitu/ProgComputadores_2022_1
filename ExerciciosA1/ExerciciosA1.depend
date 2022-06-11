@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1654079796 source:c:\users\alvar\documents\ceunsp\docente\disciplinasministradas\5_sexta_programacaocomputadores\projetos\exerciciosa1\main.c
+	<stdio.h>
+	<stdlib.h>
+
